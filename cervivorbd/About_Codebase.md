@@ -1,4 +1,4 @@
-# structure
+# Codebase structure
 
 ```console
 lib
