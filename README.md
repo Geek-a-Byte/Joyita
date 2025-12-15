@@ -1,12 +1,10 @@
-# CervivorBD
-
 <p align="center"><a href="https://www.youtube.com/watch?v=w5IMNW5ZkVo"><img width="500" height="500" alt="logo3" src="https://user-images.githubusercontent.com/59027621/194188756-890854dd-d0a6-4780-baa1-6e5ffc75581a.png"></a></p>
 
 Cervical cancer is the 4th most common cancer among women worldwide and it is the 2nd most common cancer in Bangladesh. According to the International Agency for Research on Cancer, more than 50 million Bangladeshi women are at risk of developing cervical cancer.
 
 In a recent survey for a group of females, only 64.4% of them had primary knowledge about cervical cancer. Most of them refused to take any screening test due to the possible reasons: lack of information about screening methods, fear of the result, shyness, fear of screening test, religious belief etc. 88.1% of them responded that they didn’t take any vaccines against HPV as well. For cervical cancer awareness, prediction and suggestion, 61% of them preferred an android app over a website.
 
-As a result, we propose an android app named CervivorBD. A smart assistive system for cervical cancer patients. The app will be  developed in Bengali so that mass people in BD can be made aware of cervical cancer.
+As a result, we propose an android app named Joyita. A smart assistive system for cervical cancer patients. The app will be  developed in Bengali so that mass people in BD can be made aware of cervical cancer.
 
 Features of the app :
 
@@ -44,9 +42,9 @@ Features of the app :
 - To assure people more about the usability, importance of this android app, survey forms would be provided and results of the data inputs would be shown on real time graphs.
 - Showing results of the successful integration of AI, machine learning and other relevant domains in predicting and detecting cervical cancer which would be more helpful to gain credibility of the system.
 
-- [CervivorBD : Survey for Doctors](https://forms.gle/fF53Cqug9EtVnhDw9)
-- [CervivorBD : Survey for General People](https://forms.gle/z8DA8W6dkfm31LWu5)
-- [CervivorBD : Initial Screening for Patients](https://forms.gle/HAAsupmkorKREZN37)
+- [Joyita : Survey for Doctors](https://forms.gle/fF53Cqug9EtVnhDw9)
+- [Joyita : Survey for General People](https://forms.gle/z8DA8W6dkfm31LWu5)
+- [Joyita : Initial Screening for Patients](https://forms.gle/HAAsupmkorKREZN37)
 
 ## Donation forum
 
